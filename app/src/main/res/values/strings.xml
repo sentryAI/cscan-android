@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CScan</string>
+    <string name="stationary_scan_activity_title">Stationary Scans</string>
+    <string name="live_scan_button_text">Live Scan</string>
+    <string name="stationary_button_text">Stationary</string>
+    <string name="scan_mode_spinner_title">Scan Mode</string>
+    <string name="live_scan_activity_title">Live Scan Mode</string>
+    <string name="saliency_mode_activity_title">Saliency Mode</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toast_error_camera_preview">Can\\\'t initialize camera preview.</string>
+    <string name="dialog_save_image_title">Save Image</string>
+    <string name="save_image">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="image_title_hint">Image title</string>
+    <string name="image_comment_hint">Image comment</string>
+</resources>

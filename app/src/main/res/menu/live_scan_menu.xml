@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/live_scan_switch"
+        android:title="@string/scan_mode_spinner_title"
+        app:actionMenuTextColor="@color/white"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.support.v7.widget.SwitchCompat" />
+</menu>

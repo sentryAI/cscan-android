@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="image_preview_text_view_margin">80dp</dimen>
+    <dimen name="preview_bottom_margin">56.0dip</dimen>
+    <dimen name="save_dialog_top_margin">60.0dip</dimen>
+
+    <dimen name="text_margin">16dp</dimen>
+
+    <item name="frame_rate_limit" type="dimen" format="float">1000</item>
+
+</resources>

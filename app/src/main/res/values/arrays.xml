@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scan_mode_array">
+        <item>Detecor Mode</item>
+        <item>Saliancy Mode</item>
+    </string-array>
+</resources>
